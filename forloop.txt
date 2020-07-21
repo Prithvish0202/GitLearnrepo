@@ -4,5 +4,5 @@ printf("GOOGLE");
 
 printf("done with for loop ");
 printf("understood while loops also  ");
-
+New changes
 moved to branch prithvi.
