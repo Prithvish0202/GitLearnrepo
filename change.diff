@@ -1,0 +1,11 @@
+diff --git a/file.txt b/file.txt
+index fd0348a..f34619e 100644
+--- a/file.txt
++++ b/file.txt
+@@ -4,5 +4,5 @@ printf("In dev Branch");
+ 
+ making changes.
+ 
+-i am into branch Prithvi.
++i have come into branch Prithvi.
+ new commits.

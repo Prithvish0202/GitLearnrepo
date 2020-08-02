@@ -1,7 +1,7 @@
 for(int i=0;i<4;i++){
 printf("GOOGLE");
-}
-chAnges in loop section.
+
+changes in loop section.
 printf("done with for loop ");
 printf("understood while loops also  ");
 New changes on 24/07.
