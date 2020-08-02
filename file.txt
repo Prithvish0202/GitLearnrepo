@@ -2,7 +2,14 @@ print hello world;
 
 printf("In dev Branch");
 
-making changes.
 
+making changes on 28//2020/07.
+
+
+<<<<<<< HEAD
 i have come into branch Prithvi.
 new commits.
+=======
+i am into branch Prithvi.
+new commits done.
+>>>>>>> 1dc0274e3d2841f78dfc4336981a36ddc2176b2b
